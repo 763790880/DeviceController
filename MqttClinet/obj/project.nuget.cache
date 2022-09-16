@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDr2DMbNvQWnHuSe9Z7vr3za4ZXxqnWqrUlRI0UVonxFAauGAHD2mf3dmvvvd5Wwvyo3Qi284vqF1WFDW8XzZg==",
+  "success": true,
+  "projectFilePath": "E:\\MyWork\\自研物联网\\树莓派\\c#软件\\DeviceController\\DeviceController\\MqttClinet\\MqttClinetServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mqttnet\\4.0.2.221\\mqttnet.4.0.2.221.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\bin\Debug\net6.0\Gpio.deps.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\bin\Debug\net6.0\Gpio.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\bin\Debug\net6.0\Gpio.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.csproj.CoreCompileInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\refint\Gpio.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\Gpio.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Gpio\obj\Debug\net6.0\ref\Gpio.dll

@@ -1,0 +1,5 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Opcua\obj\Debug\net6.0\Opcua.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Opcua\obj\Debug\net6.0\Opcua.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Opcua\obj\Debug\net6.0\Opcua.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Opcua\obj\Debug\net6.0\Opcua.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Opcua\obj\Debug\net6.0\Opcua.csproj.CoreCompileInputs.cache

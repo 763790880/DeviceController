@@ -1,0 +1,12 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\bin\Debug\net6.0\Utils.deps.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\bin\Debug\net6.0\Utils.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\bin\Debug\net6.0\Utils.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.csproj.CoreCompileInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\refint\Utils.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\Utils.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Utils\obj\Debug\net6.0\ref\Utils.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXsIgr8IhmFYiq0fyLkXbbf/eICM6cDjMJ96jbhRbfzIt/RxMOcl1COZNOUCOaO3B+78lx6PsgG32VJeOxskbg==",
+  "success": true,
+  "projectFilePath": "E:\\MyWork\\自研物联网\\树莓派\\c#软件\\DeviceController\\新建文件夹\\Gpio\\Gpio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.device.gpio\\2.1.0\\system.device.gpio.2.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

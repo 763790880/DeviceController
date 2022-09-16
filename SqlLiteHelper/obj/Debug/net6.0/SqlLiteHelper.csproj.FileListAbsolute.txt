@@ -1,0 +1,13 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\bin\Debug\net6.0\SqlLiteHelper.deps.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\bin\Debug\net6.0\SqlLiteHelper.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\bin\Debug\net6.0\SqlLiteHelper.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.csproj.CoreCompileInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\refint\SqlLiteHelper.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\SqlLiteHelper.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\obj\Debug\net6.0\ref\SqlLiteHelper.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\SqlLiteHelper\bin\Debug\net6.0\Sqlite.db

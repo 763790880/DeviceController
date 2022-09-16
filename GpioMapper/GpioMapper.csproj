@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-GpioMapper-0A27F6DD-BCA0-4D91-9FAC-292DD9D75EEE</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="initializeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="initializeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gpio\Gpio.csproj" />
+    <ProjectReference Include="..\Mqtt\Mqtt.csproj" />
+    <ProjectReference Include="..\SqlLiteHelper\SqlLiteHelper.csproj" />
+  </ItemGroup>
+</Project>

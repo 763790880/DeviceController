@@ -1,0 +1,27 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "Agreement": [ "Opcua", "Bluetooth", "Modscan" ],
+  "Opcua": {
+    "地址": "opc.tcp://localhost:34561/DataTransferServer",
+    "用户名": "admin",
+    "密码": "123456",
+    "需采集点位集": [
+      {
+        "别名": "",
+        "NodeId": "",
+        "期望值": "",
+        "描述": "",
+        "属性级别": "只读/只写/支持读写"
+      }
+    ]
+
+  }
+
+}

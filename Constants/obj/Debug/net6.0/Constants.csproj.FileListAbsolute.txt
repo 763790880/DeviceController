@@ -1,0 +1,12 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\bin\Debug\net6.0\Constants.deps.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\bin\Debug\net6.0\Constants.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\bin\Debug\net6.0\Constants.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.csproj.CoreCompileInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\refint\Constants.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\Constants.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\Constants\obj\Debug\net6.0\ref\Constants.dll

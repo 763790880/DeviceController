@@ -1,0 +1,17 @@
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\DeviceController.exe
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\DeviceController.deps.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\DeviceController.runtimeconfig.json
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\DeviceController.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\DeviceController.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\bin\Debug\net6.0\System.Device.Gpio.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.csproj.AssemblyReference.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.AssemblyInfoInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.AssemblyInfo.cs
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.csproj.CoreCompileInputs.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.csproj.CopyComplete
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\refint\DeviceController.dll
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.pdb
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\DeviceController.genruntimeconfig.cache
+E:\MyWork\自研物联网\树莓派\c#软件\DeviceController\DeviceController\DeviceController\obj\Debug\net6.0\ref\DeviceController.dll
